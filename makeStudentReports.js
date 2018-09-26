@@ -12,6 +12,6 @@ const testData = [
     { name: 'Jane Doe', grade: 'A' },
     { name: 'John Dough', grade: 'B' },
     { name: 'Jill Do', grade: 'A' },
-  ];
+];
 
-  console.log(makeStudentReport(testData));
+console.log(makeStudentReport(testData));
